@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Visual-Sort/static/css/main.d1b05096.chunk.css",
-    "main.js": "/Visual-Sort/static/js/main.7201cc48.chunk.js",
-    "main.js.map": "/Visual-Sort/static/js/main.7201cc48.chunk.js.map",
+    "main.js": "/Visual-Sort/static/js/main.8fe9b476.chunk.js",
+    "main.js.map": "/Visual-Sort/static/js/main.8fe9b476.chunk.js.map",
     "runtime-main.js": "/Visual-Sort/static/js/runtime-main.fec44b4f.js",
     "runtime-main.js.map": "/Visual-Sort/static/js/runtime-main.fec44b4f.js.map",
     "static/js/2.28442be9.chunk.js": "/Visual-Sort/static/js/2.28442be9.chunk.js",
     "static/js/2.28442be9.chunk.js.map": "/Visual-Sort/static/js/2.28442be9.chunk.js.map",
     "index.html": "/Visual-Sort/index.html",
-    "precache-manifest.341665db0799321953a7230d5acf5950.js": "/Visual-Sort/precache-manifest.341665db0799321953a7230d5acf5950.js",
+    "precache-manifest.dd7e4c5c6600f1d6f643f899bc257713.js": "/Visual-Sort/precache-manifest.dd7e4c5c6600f1d6f643f899bc257713.js",
     "service-worker.js": "/Visual-Sort/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/Visual-Sort/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.28442be9.chunk.js.LICENSE.txt": "/Visual-Sort/static/js/2.28442be9.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.fec44b4f.js",
     "static/js/2.28442be9.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.7201cc48.chunk.js"
+    "static/js/main.8fe9b476.chunk.js"
   ]
 }
